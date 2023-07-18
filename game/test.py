@@ -1189,7 +1189,7 @@ def Login_bage():
             nav_bar()
             home_bage()
         else:
-            if PASSWORD == "2023/8/8" and USER_NAME == "Haider" and COUNT == 1:
+            if PASSWORD == "2023" and USER_NAME == "Hayder" and COUNT == 1:
                 messagebox.showwarning("hi ...", "this message will show jast this time \n"
                                                  "you are use this window for the first time ...\n"
                                                  "the defult user name and password are : \n"
