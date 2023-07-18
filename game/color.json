@@ -1,0 +1,18 @@
+{
+  "them": "Light",
+  "chareckter": "m,n",
+  "auto_play": "True",
+  "your_char": "m",
+  "font_styel": "italic",
+  "user_and_password": [
+    "1",
+    "1"
+  ],
+  "color_data": [
+    "white",
+    "black",
+    "#30302f",
+    "#1ecbe1"
+  ],
+  "count": 1
+}
